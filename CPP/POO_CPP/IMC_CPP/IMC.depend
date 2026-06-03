@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1750266055 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\imc\main.cpp
+	<iostream>
+	"PacienteIMC.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.cpp"
+
+1749050636 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\imc\pacienteimc.cpp
+	<string>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\CadastrarPessoa\Pessoa.cpp"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\Abr_24_UsandoPacotes_CPP\Abr_24_UsandoPacotes_CPP_III\CalculadoraIMC.cpp"
+	"PacienteIMC.h"
+
+1748450708 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\minhadata\data.h
+
+1750192298 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\cadastrarpessoa\pessoa.cpp
+	<iostream>
+	"Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.h"
+
+1749665010 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\minhadata\data.cpp
+	<iostream>
+	<ctime>
+	"Data.h"
+
+1749664745 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\cadastrarpessoa\pessoa.h
+	<string>
+	<vector>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.h"
+
+1747321125 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_iii\calculadoraimc.cpp
+	"CalculadoraIMC.h"
+
+1745603736 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_iii\calculadoraimc.h
+	<iostream>
+
+1749662450 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\imc\pacienteimc.h
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\CadastrarPessoa\Pessoa.h"
+
+1762466645 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\imc_cpp\main.cpp
+	<iostream>
+	"PacienteIMC.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.cpp"
+
+1762466581 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\imc_cpp\pacienteimc.h
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\CadastrarPessoa_CPP\Pessoa.h"
+
+1779400715 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\minhadata_cpp\data.h
+
+1761689424 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\cadastrarpessoa_cpp\pessoa.h
+	<string>
+	<vector>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.h"
+
+1760535804 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\minhadata_cpp\data.cpp
+	<iostream>
+	<ctime>
+	"Data.h"
+
+1762466735 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\imc_cpp\pacienteimc.cpp
+	<string>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\CadastrarPessoa_CPP\Pessoa.cpp"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\Set_11_Usando_MeuPacote_CPP\Usando_CalculadoraIMC\CalculadoraIMC.cpp"
+	"PacienteIMC.h"
+
+1761689436 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\cadastrarpessoa_cpp\pessoa.cpp
+	<iostream>
+	"Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.h"
+
+1747321125 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_calculadoraimc\calculadoraimc.cpp
+	"CalculadoraIMC.h"
+
+1745603736 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_calculadoraimc\calculadoraimc.h
+	<iostream>
+

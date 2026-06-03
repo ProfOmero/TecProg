@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1773355064 source:c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_12_meuvetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Geral.h"
+	"Vetor.h"
+
+1773355064 c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_12_meuvetor\geral.h
+
+1773355064 c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_12_meuvetor\vetor.h
+
+1773355064 source:c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_12_meuvetor\vetor.c
+	"Vetor.h"
+	"Geral.h"
+	<stdlib.h>
+
+1773355107 source:c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_12_meuvetor\geral.c
+	"geral.h"
+

@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1748453588 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\cadastrarpessoa\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	"Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.cpp"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\EstudoDeCasos_PE\Geral.c"
+
+1749664823 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\cadastrarpessoa\pessoa.cpp
+	<iostream>
+	"Pessoa.h"
+
+1749664745 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\cadastrarpessoa\pessoa.h
+	<string>
+	<vector>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.h"
+
+1748450708 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\minhadata\data.h
+
+1749665010 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\minhadata\data.cpp
+	<iostream>
+	<ctime>
+	"Data.h"
+
+1721136863 c:\meus documentos\professor do daeln\aulas\tecprog\estudodecasos_pe\geral.c
+	<stdio.h>
+	<stdlib.h>
+
+1761689495 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\cadastrarpessoa_cpp\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	"Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.cpp"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\Projeto_PE_IMC\Geral.c"
+
+1761689424 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\cadastrarpessoa_cpp\pessoa.h
+	<string>
+	<vector>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.h"
+
+1761689436 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\cadastrarpessoa_cpp\pessoa.cpp
+	<iostream>
+	"Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.h"
+
+1779400715 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\minhadata_cpp\data.h
+
+1760535804 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\minhadata_cpp\data.cpp
+	<iostream>
+	<ctime>
+	"Data.h"
+
+1721136863 c:\meus documentos\professor do daeln\aulas\tecprog\projeto_pe_imc\geral.c
+	<stdio.h>
+	<stdlib.h>
+

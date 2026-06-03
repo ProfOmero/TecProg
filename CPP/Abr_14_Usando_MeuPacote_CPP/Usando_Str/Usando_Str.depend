@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1745604692 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_iv\main.cpp
+	<iostream>
+	"Str.h"
+
+1745604418 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_iv\str.cpp
+	"Str.h"
+
+1745604253 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_iv\str.h
+	<iostream>
+
+1757682895 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_str\main.cpp
+	<iostream>
+	"Str.h"
+
+1745604253 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_str\str.h
+	<iostream>
+
+1745604418 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_str\str.cpp
+	"Str.h"
+

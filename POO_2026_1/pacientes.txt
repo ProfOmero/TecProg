@@ -1,0 +1,3 @@
+Juca Bala;90,500000;1,770000
+Maria do Socorro;62,500000;1,650000
+Maria das Flores;60,550000;1,660000

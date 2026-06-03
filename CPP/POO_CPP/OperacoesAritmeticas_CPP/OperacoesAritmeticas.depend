@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1747779200 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\operacoesaritmeticas\main.cpp
+	<iostream>
+	"MeuMath.h"
+
+1747779143 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\operacoesaritmeticas\meumath.h
+
+1747417428 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\operacoesaritmeticas\meumath.cpp
+	<iostream>
+	"MeuMath.h"
+
+1751567926 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\operacoesaritmeticas_cpp\main.cpp
+	<iostream>
+	"MeuMath.h"
+
+1747779143 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\operacoesaritmeticas_cpp\meumath.h
+
+1747417428 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\operacoesaritmeticas_cpp\meumath.cpp
+	<iostream>
+	"MeuMath.h"
+

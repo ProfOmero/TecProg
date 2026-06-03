@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1773959106 source:c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_19_pacienteimc\main.c
+	<stdio.h>
+	"PacienteIMC.h"
+
+1773959106 c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_19_pacienteimc\pacienteimc.h
+
+1773959471 source:c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_19_pacienteimc\pacienteimc.c
+	<stdio.h>
+	"PacienteIMC.h"
+	<stdlib.h>
+

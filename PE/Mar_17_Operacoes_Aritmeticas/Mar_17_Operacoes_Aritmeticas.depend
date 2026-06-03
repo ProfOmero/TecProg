@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1773786202 source:c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_17_operacoes_aritmeticas\main.c
+	<stdio.h>
+	"MeuMath.h"
+
+1773785663 c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_17_operacoes_aritmeticas\meumath.h
+
+1773785967 source:c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_17_operacoes_aritmeticas\meumath.c
+	"MeuMath.h"
+	<stdlib.h>
+

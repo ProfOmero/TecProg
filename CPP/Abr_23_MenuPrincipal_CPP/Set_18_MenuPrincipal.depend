@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1758648645 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_18_menuprincipal\main.cpp
+	<iostream>
+	<vector>
+	"Geral.h"
+	"OpcoesMenu.h"
+
+1758581316 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_18_menuprincipal\opcoesmenu.h
+	<iostream>
+	<cstring>
+	<vector>
+
+1758478032 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_aluno\geral.cpp
+	<iostream>
+	<cstdlib>
+
+1758477268 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_aluno\geral.h
+
+1758639184 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_18_menuprincipal\opcoesmenu.cpp
+	<string>
+	"OpcoesMenu.h"
+	"Geral.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\Set_11_Usando_MeuPacote_CPP\Usando_Aluno\Aluno.cpp"
+
+1758478032 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_18_menuprincipal\geral.cpp
+	<iostream>
+	<cstdlib>
+
+1758477268 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_18_menuprincipal\geral.h
+
+1745600714 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_aluno\aluno.cpp
+	"Aluno.h"
+
+1745600726 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_aluno\aluno.h
+	<iostream>
+
+1758478032 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_menuprincipal\geral.cpp
+	<iostream>
+	<cstdlib>
+
+1758648645 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_menuprincipal\main.cpp
+	<iostream>
+	<vector>
+	"Geral.h"
+	"OpcoesMenu.h"
+
+1758477268 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_menuprincipal\geral.h
+
+1758581316 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_menuprincipal\opcoesmenu.h
+	<iostream>
+	<cstring>
+	<vector>
+
+1758478032 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_menuprincipal_cpp\geral.cpp
+	<iostream>
+	<cstdlib>
+
+1758648645 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_menuprincipal_cpp\main.cpp
+	<iostream>
+	<vector>
+	"Geral.h"
+	"OpcoesMenu.h"
+
+1758477268 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_menuprincipal_cpp\geral.h
+
+1758581316 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_menuprincipal_cpp\opcoesmenu.h
+	<iostream>
+	<cstring>
+	<vector>
+
+1777035549 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_menuprincipal_cpp\opcoesmenu.cpp
+	<string>
+	"OpcoesMenu.h"
+	"Geral.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\Abr_14_Usando_MeuPacote_CPP\Usando_Aluno\Aluno.cpp"
+
+1745600714 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_aluno\aluno.cpp
+	"Aluno.h"
+
+1745600726 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_aluno\aluno.h
+	<iostream>
+
+1758478032 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_23_menuprincipal_cpp\geral.cpp
+	<iostream>
+	<cstdlib>
+
+1758648645 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_23_menuprincipal_cpp\main.cpp
+	<iostream>
+	<vector>
+	"Geral.h"
+	"OpcoesMenu.h"
+
+1758477268 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_23_menuprincipal_cpp\geral.h
+
+1758581316 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_23_menuprincipal_cpp\opcoesmenu.h
+	<iostream>
+	<cstring>
+	<vector>
+
+1777035549 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_23_menuprincipal_cpp\opcoesmenu.cpp
+	<string>
+	"OpcoesMenu.h"
+	"Geral.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\Abr_14_Usando_MeuPacote_CPP\Usando_Aluno\Aluno.cpp"
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1745599959 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_i\main.cpp
+	<iostream>
+	"Vetor.h"
+
+1745599625 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_i\vetor.h
+	<iostream>
+
+1745599888 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_i\vetor.cpp
+	"Vetor.h"
+
+1745599959 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\abr_24_usandopacotes_cpp_i\main.cpp
+	<iostream>
+	"Vetor.h"
+
+1745599625 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\abr_24_usandopacotes_cpp_i\vetor.h
+	<iostream>
+
+1745599888 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\abr_24_usandopacotes_cpp_i\vetor.cpp
+	"Vetor.h"
+
+1745599959 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_vetor\main.cpp
+	<iostream>
+	"Vetor.h"
+
+1745599625 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_vetor\vetor.h
+	<iostream>
+
+1745599888 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_vetor\vetor.cpp
+	"Vetor.h"
+

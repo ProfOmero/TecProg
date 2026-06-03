@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1747877058 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\planocartesiano\main.cpp
+	<iostream>
+	<vector>
+	"Ponto.h"
+
+1747951065 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\planocartesiano\ponto.cpp
+	<iostream>
+	"Ponto.h"
+
+1747874266 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\planocartesiano\ponto.h
+
+1760479251 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\planocartesiano_cpp\main.cpp
+	<iostream>
+	<vector>
+	"Ponto.h"
+
+1747874266 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\planocartesiano_cpp\ponto.h
+
+1760479251 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\planocartesiano_cpp\ponto.cpp
+	<iostream>
+	"Ponto.h"
+

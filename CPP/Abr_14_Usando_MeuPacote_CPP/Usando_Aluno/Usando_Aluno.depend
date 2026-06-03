@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1745602627 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_i\abr_24_usandopacotes_cpp_ii\main.cpp
+	<iostream>
+	<algorithm>
+	"Aluno.h"
+
+1745600714 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_i\abr_24_usandopacotes_cpp_ii\aluno.cpp
+	"Aluno.h"
+
+1745600726 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_i\abr_24_usandopacotes_cpp_ii\aluno.h
+	<iostream>
+
+1745600714 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_ii\aluno.cpp
+	"Aluno.h"
+
+1745600726 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_ii\aluno.h
+	<iostream>
+
+1745602814 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_ii\main.cpp
+	<iostream>
+	"Aluno.h"
+
+1745600714 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_aluno\aluno.cpp
+	"Aluno.h"
+
+1745600726 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_aluno\aluno.h
+	<iostream>
+
+1757683446 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_aluno\main.cpp
+	<iostream>
+	"Aluno.h"
+	"Geral.h"
+
+1758478032 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_aluno\geral.cpp
+	<iostream>
+	<cstdlib>
+
+1758477268 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_aluno\geral.h
+
+1745600714 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_aluno\aluno.cpp
+	"Aluno.h"
+
+1745600726 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_aluno\aluno.h
+	<iostream>
+
+1758478032 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_aluno\geral.cpp
+	<iostream>
+	<cstdlib>
+
+1757683446 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_aluno\main.cpp
+	<iostream>
+	"Aluno.h"
+	"Geral.h"
+
+1758477268 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_aluno\geral.h
+

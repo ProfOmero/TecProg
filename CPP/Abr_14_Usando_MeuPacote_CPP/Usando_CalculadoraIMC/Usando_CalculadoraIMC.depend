@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1745603847 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_iii\main.cpp
+	<iostream>
+	"CalculadoraIMC.h"
+
+1747321125 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_iii\calculadoraimc.cpp
+	"CalculadoraIMC.h"
+
+1745603736 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_iii\calculadoraimc.h
+	<iostream>
+
+1747321125 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_calculadoraimc\calculadoraimc.cpp
+	"CalculadoraIMC.h"
+
+1745603736 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_calculadoraimc\calculadoraimc.h
+	<iostream>
+
+1745603847 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_calculadoraimc\main.cpp
+	<iostream>
+	"CalculadoraIMC.h"
+
+1747321125 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_calculadoraimc\calculadoraimc.cpp
+	"CalculadoraIMC.h"
+
+1745603736 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_calculadoraimc\calculadoraimc.h
+	<iostream>
+
+1745603847 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_calculadoraimc\main.cpp
+	<iostream>
+	"CalculadoraIMC.h"
+

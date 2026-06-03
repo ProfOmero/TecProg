@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1748019262 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\minhadata\data.cpp
+	<iostream>
+	<ctime>
+	"Data.h"
+
+1748019288 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\minhadata\main.cpp
+	<iostream>
+	"Data.h"
+
+1748450708 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\minhadata\data.h
+
+1760535804 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\minhadata_cpp\data.cpp
+	<iostream>
+	<ctime>
+	"Data.h"
+
+1748450708 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\minhadata_cpp\data.h
+
+1760535804 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\minhadata_cpp\main.cpp
+	<iostream>
+	"Data.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1773788446 source:c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_17_plano_cartesiano\ponto.c
+	"Ponto.h"
+	<stdlib.h>
+
+1773787923 c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_17_plano_cartesiano\ponto.h
+
+1773788328 source:c:\meus documentos\professor do daeln\aulas\tecprog\pe\mar_17_plano_cartesiano\main.c
+	<stdio.h>
+	"Ponto.h"
+

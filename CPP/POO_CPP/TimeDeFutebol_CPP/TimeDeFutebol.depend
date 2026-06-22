@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1750193663 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\timedefutebol\main.cpp
+	<iostream>
+	"Time.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\JogadoresDeFutebol\Jogador.cpp"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.cpp"
+
+1750193675 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\timedefutebol\time.cpp
+	<iostream>
+	"Time.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\CadastrarPessoa\Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\JogadoresDeFutebol\Jogador.h"
+
+1750192576 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\timedefutebol\time.h
+	<vector>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\CadastrarPessoa\Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\JogadoresDeFutebol\Jogador.h"
+
+1749664745 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\cadastrarpessoa\pessoa.h
+	<string>
+	<vector>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.h"
+
+1748450708 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\minhadata\data.h
+
+1749664361 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\jogadoresdefutebol\jogador.h
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\CadastrarPessoa\Pessoa.h"
+
+1750272030 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\jogadoresdefutebol\jogador.cpp
+	<string>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\CadastrarPessoa\Pessoa.cpp"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\Abr_24_UsandoPacotes_CPP\Abr_24_UsandoPacotes_CPP_IV\Str.cpp"
+	"Jogador.h"
+
+1750192298 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\cadastrarpessoa\pessoa.cpp
+	<iostream>
+	"Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO\MinhaData\Data.h"
+
+1749665010 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\minhadata\data.cpp
+	<iostream>
+	<ctime>
+	"Data.h"
+
+1745604418 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_iv\str.cpp
+	"Str.h"
+
+1745604253 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_24_usandopacotes_cpp\abr_24_usandopacotes_cpp_iv\str.h
+	<iostream>
+
+1763139699 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\timedefutebol_cpp\main.cpp
+	<iostream>
+	"Time.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\JogadoresDeFutebol_CPP\Jogador.cpp"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.cpp"
+
+1763502737 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\timedefutebol_cpp\time.h
+	<vector>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\CadastrarPessoa_CPP\Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\JogadoresDeFutebol_CPP\Jogador.h"
+
+1761689424 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\cadastrarpessoa_cpp\pessoa.h
+	<string>
+	<vector>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.h"
+
+1779400715 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\minhadata_cpp\data.h
+
+1762965337 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\jogadoresdefutebol_cpp\jogador.h
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\CadastrarPessoa_CPP\Pessoa.h"
+
+1781042239 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\jogadoresdefutebol_cpp\jogador.cpp
+	<string>
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\CadastrarPessoa_CPP\Pessoa.cpp"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\Abr_14_Usando_MeuPacote_CPP\Usando_Str\Str.cpp"
+	"Jogador.h"
+
+1761689436 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\cadastrarpessoa_cpp\pessoa.cpp
+	<iostream>
+	"Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\MinhaData_CPP\Data.h"
+
+1745604418 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_str\str.cpp
+	"Str.h"
+
+1745604253 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\set_11_usando_meupacote_cpp\usando_str\str.h
+	<iostream>
+
+1760535804 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\minhadata_cpp\data.cpp
+	<iostream>
+	<ctime>
+	"Data.h"
+
+1763139699 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\timedefutebol_cpp\time.cpp
+	<iostream>
+	"Time.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\CadastrarPessoa_CPP\Pessoa.h"
+	"C:\Meus Documentos\Professor do DAELN\Aulas\TecProg\CPP\POO_CPP\JogadoresDeFutebol_CPP\Jogador.h"
+
+1745604418 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_str\str.cpp
+	"Str.h"
+
+1745604253 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\abr_14_usando_meupacote_cpp\usando_str\str.h
+	<iostream>
+

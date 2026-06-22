@@ -13,7 +13,7 @@ public class Listar_PacientesIMC {
       double pc, alt;
       
       try {
-        FileReader arq = new FileReader("pacientes.txt");
+        FileReader arq = new FileReader("C:\\Meus Documentos\\Professor do DAELN\\Aulas\\ProgComp\\Jun_9_e_11_TXT\\pacientes.txt");
         BufferedReader lerArq = new BufferedReader(arq);  
 
         linha = lerArq.readLine(); // lê a primeira linha do arquivo texto
@@ -21,8 +21,8 @@ public class Listar_PacientesIMC {
           partes = linha.split(";");
 
           nome = partes[0];
-          pc = Double.parseDouble(partes[1].replace(',', '.'));
-          alt = Double.parseDouble(partes[2].replace(',', '.'));
+          pc = Double.parseDouble(partes[1]);
+          alt = Double.parseDouble(partes[2]);
 
           System.out.println(CalculadoraIMC.toString(nome, pc, alt));
 

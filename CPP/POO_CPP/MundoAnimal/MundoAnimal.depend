@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1750267281 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\mundoanimal\cachorro.cpp
+	<iostream>
+	"Cachorro.h"
+
+1750267049 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\mundoanimal\cachorro.h
+	<string>
+	"Animal.h"
+
+1752093643 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\mundoanimal\animal.h
+	<string>
+	<vector>
+
+1750266420 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\mundoanimal\vaca.cpp
+	<iostream>
+	"Vaca.h"
+
+1750267049 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\mundoanimal\vaca.h
+	<string>
+	"Animal.h"
+
+1752094072 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\mundoanimal\animal.cpp
+	<iostream>
+	"Animal.h"
+	"Cachorro.h"
+	"Gato.h"
+	"Vaca.h"
+
+1750267049 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\mundoanimal\gato.h
+	<string>
+	"Animal.h"
+
+1750266697 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\mundoanimal\gato.cpp
+	<iostream>
+	"Animal.h"
+	"Gato.h"
+
+1752094325 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\mundoanimal\main.cpp
+	"Animal.h"
+	"Cachorro.h"
+	"Gato.h"
+	"Vaca.h"
+
+1750267281 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo\mundoanimal\cachorro.cpp
+	<iostream>
+	"Cachorro.h"
+
+1764009134 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\mundoanimal\animal.cpp
+	<iostream>
+	"Animal.h"
+	"Cachorro.h"
+	"Gato.h"
+	"Vaca.h"
+
+1752093643 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\mundoanimal\animal.h
+	<string>
+	<vector>
+
+1750267049 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\mundoanimal\cachorro.h
+	<string>
+	"Animal.h"
+
+1750267049 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\mundoanimal\gato.h
+	<string>
+	"Animal.h"
+
+1750267049 c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\mundoanimal\vaca.h
+	<string>
+	"Animal.h"
+
+1750267281 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\mundoanimal\cachorro.cpp
+	<iostream>
+	"Cachorro.h"
+
+1750266697 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\mundoanimal\gato.cpp
+	<iostream>
+	"Animal.h"
+	"Gato.h"
+
+1764008995 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\mundoanimal\main.cpp
+	"Animal.h"
+	"Cachorro.h"
+	"Gato.h"
+	"Vaca.h"
+
+1750266420 source:c:\meus documentos\professor do daeln\aulas\tecprog\cpp\poo_cpp\mundoanimal\vaca.cpp
+	<iostream>
+	"Vaca.h"
+
